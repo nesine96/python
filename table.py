@@ -1,0 +1,5 @@
+print ("helloworld")
+print ("+/-")
+input = (int(quel est votre choix ?))
+if ("helloworld") == ("vous etes dans l_exercice 1")
+if ("+/-") ==(" vous etes dans l_exercice 2")
